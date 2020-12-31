@@ -1,0 +1,30 @@
+@import "containers.css";
+@import "experience.css";
+@import "hobbies.css";
+@import "short.css";
+@import "navbar.css";
+
+
+
+body { 
+  background-image: url("../images/kunj-parekh-H69EgivmCjE-unsplash.jpg");
+  background-color: white;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+
+
+h1, h2, h3 {font-family: 'Raleway', sans-serif;
+font-weight: 200;
+}
+h1 {
+  font-size: 30px;
+
+}
+h2 {font-size: 25px;}
+a {
+   color: black;
+   text-decoration: none;
+}
+

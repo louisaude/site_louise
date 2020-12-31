@@ -1,0 +1,33 @@
+.short, .short_container, .short_title, .quality_cards, .quality_card {
+  border:burlywood;
+  border-style: solid;
+  border-width: thin;
+}
+
+.short {
+  display: inline-flex;
+  flex-direction: row; 
+  justify-content: center;
+  height: 450;
+  width: 100%;
+}
+
+.short_container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.short_title {
+  height: 10%;
+}
+
+.quality_cards {
+  display: flex;
+  flex-direction: row;
+  height: 90%;
+}
+
+.quality_card { 
+  width: 25%;
+}
