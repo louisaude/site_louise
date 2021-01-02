@@ -25,6 +25,7 @@
 .button {
   display: inline-block;
   position: relative;
+  color: black;
 }
 
 .button::after{
