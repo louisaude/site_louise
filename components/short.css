@@ -1,15 +1,16 @@
-.short, .short_container, .short_title, .quality_cards, .quality_card {
+/* .short, .short_container, .short_title, .quality_cards, .quality_card {
   border:burlywood;
   border-style: solid;
   border-width: thin;
-}
+} */
 
 .short {
   display: inline-flex;
   flex-direction: row; 
   justify-content: center;
-  height: 450;
+  height: 320;
   width: 100%;
+  color: white;
 }
 
 .short_container {

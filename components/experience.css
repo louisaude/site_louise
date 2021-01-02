@@ -16,10 +16,11 @@
 .xp_card {
   width: auto;
   height: 30%;
-  background-color:#F6F4F6;
+  background-color:#6a7b98;
   margin: 20px;
   padding: 5px;
   border-radius: 6px;
+  color: white;
 }
 
 .pro, .volunteering {
@@ -54,7 +55,7 @@
 }
 .xp_header {
   text-decoration: none;
-  /* border-bottom: 1px solid black; */
+  margin: 20px;
   width: fit-content;
 }
 /* .experience, .pro, .xp_card, .volunteering, .xp_container, .dates, .company, .job_desc, .company_name {
