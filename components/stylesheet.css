@@ -8,12 +8,14 @@
 
 
 body { 
-  background-image: url("../images/kunj-parekh-H69EgivmCjE-unsplash.jpg");
-  background-color: white;
+  background-image: url("../images/kunj-parekh-H69EgivmCjE-unsplash.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   color: black;
   font-family: 'Montserrat', sans-serif;
   font-weight: 200;
-}
+  }
 
 
 h1, h2, h3 {font-family: 'Raleway', sans-serif;
@@ -21,7 +23,11 @@ font-weight: 200;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 50px;
+  /* color: #fff;
+  text-shadow: .3px 0 0 #000, 0 -.3px 0 #000, 0 -.3px 0 #000, -.3px 0 0 #000; */
+  color: black;
+  text-shadow: .3px 0 0 white, 0 -.3px 0 white, 0 -.3px 0 white, -.3px 0 0 white;
 }
 
 h2 {font-size: 25px;}
